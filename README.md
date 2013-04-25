@@ -16,3 +16,9 @@ Blog
 =============
 
 <a href="http://innofied.com/mosaic-image-gallery-with-sencha-touch-2-2/">Innofied Blog</a>
+
+Developed By
+=============
+
+<a href="http://innofied.com/author/swarnendude/" target="_blank">Swarnendu De</a> <br>
+Follow him at <a href="https://twitter.com/swarnendude" href="_blank">@swarnendude</a>
