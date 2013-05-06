@@ -1,10 +1,8 @@
-Mosaic image gallery
-=============
+# Mosaic image gallery
 
 A mosaic image gallery with Sencha Touch 2.2
 
-Details
-=============
+## Details
 
 Head on to <a target="_blank" href="http://innofied.com/mosaic-image-gallery-with-sencha-touch-2-2/">Innofied Blog</a> for a demo.
 
@@ -12,13 +10,11 @@ Few days ago I was searching for a mobile image gallery and I found a great exte
 
 However, while searched for the same with Sencha Touch, I hardly found something readily available. A number of  posts are there in the Sencha Touch forum asking for a ready-made component – but there isn’t available till now. So, here is one simple photo gallery with a tweak which I used lately for one of our products.
 
-Blog
-=============
+### Blog
 
 <a  target="_blank" href="http://innofied.com/mosaic-image-gallery-with-sencha-touch-2-2/">Innofied Blog</a>
 
-Developed By
-=============
+## Developed By
 
 <a href="http://www.swarnendude.com" target="_blank">Swarnendu De</a> <br>
 Follow him at <a href="https://twitter.com/swarnendude" href="_blank">@swarnendude</a>
