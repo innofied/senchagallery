@@ -20,5 +20,5 @@ Blog
 Developed By
 =============
 
-<a href="http:www.swarnendude.com" target="_blank">Swarnendu De</a> <br>
+<a href="http://www.swarnendude.com" target="_blank">Swarnendu De</a> <br>
 Follow him at <a href="https://twitter.com/swarnendude" href="_blank">@swarnendude</a>
